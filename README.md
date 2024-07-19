@@ -1,1 +1,1 @@
-visit - https://airbnb-clone-6eet.onrender.com
+visit - https://airbnb-clone-6eet.onrender.com/listings
